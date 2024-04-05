@@ -1,0 +1,43 @@
+.vision-pro.wrapper {
+    width: 100%;
+    color: #BBBEFF;
+    background-color: #000000;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .vision-pro .body {
+    max-width: 980px;
+    margin: 0 auto;
+  }
+  
+  .vision-pro .content {
+    max-width: 490px;
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .vision-pro .title {
+    margin-top: -30px;
+    font-size: 45px;
+    font-weight: bold;
+    margin-bottom: 20px;
+
+  }
+  
+  .vision-pro .image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .vision-pro .image {
+    max-width: 130%;
+    height: auto;
+  }
+  

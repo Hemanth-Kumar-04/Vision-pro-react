@@ -1,4 +1,5 @@
 import React from "react";
+import "./Navc.css";
 import Logo from "../assets/images/logo.svg";
 import Search from "../assets/images/search.svg";
 import Store from "../assets/images/store.svg";
