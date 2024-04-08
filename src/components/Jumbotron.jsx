@@ -1,5 +1,5 @@
 import React from "react";
-import './Jumbotronc.css'; // Assuming it's a CSS file for styling
+import "./Jumbotronc.css"
 
 function Jumbotron() {
     return (
@@ -9,7 +9,7 @@ function Jumbotron() {
                     <h2 className="title">Lorem ipsum dolor</h2>
                     <p className="text">Feel The Comfort</p>
                     <span className="description">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing
+                        Lorem ipsum dolor sit amet, consectetur adipiscing 
                     </span>
                     <ul className="links">
                         <li>
