@@ -13,7 +13,7 @@ function Jumbotron() {
                     </span>
                     <ul className="links">
                         <li>
-                            <button className="button">Buy</button>
+                            <button className="button">Buy</button> 
                         </li>
                         <li>
                             <a className="link" href="#">Learn more</a> {/* Added href="#" */}
